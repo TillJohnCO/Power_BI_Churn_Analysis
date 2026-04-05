@@ -1,7 +1,7 @@
 # Phone Company Churn Analysis
 
 ## Project Overview
-Excecutives are concerned about customer churn. The following analyses provide insights as to which customers leave for a competitor.
+Executives are concerned about customer churn. The following analyses provide insights as to which customers leave for a competitor.
 
 ## Dashboard Preview
 ![Dashboard Screenshot](Screenshots/1_Overview.jpeg)
